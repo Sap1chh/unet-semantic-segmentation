@@ -1,9 +1,18 @@
-# unet-semantic-segmentation
-# U-Net Semantic Segmentation Project
+# U-Net Semantic Segmentation
 
-## 📌 Проєкт
-Реалізація архітектури U-Net для семантичної сегментації зображень.
+Проєкт з реалізації U-Net для семантичної сегментації зображень.
 
-## ⚙️ Встановлення
+## 📌 Мета
+Навчити нейромережу розпізнавати й сегментувати об’єкти на зображеннях.
+
+## 🧠 Технології
+- Python
+- TensorFlow / PyTorch
+- NumPy
+- Matplotlib
+- OpenCV
+
+## 🚀 Як запустити
 ```bash
 pip install -r requirements.txt
+python train.py
